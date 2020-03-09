@@ -4,5 +4,7 @@
 
 copy and fix：https://github.com/ZHENFENG13/My-Blog/
 
+入口：localhost:28083/admin/login
+
 - **数据库文件目录为```static-files/my_blog_db.sql```；**
 - **My Blog 后台管理系统的默认登陆账号为 admin 默认登陆密码为 123456；**
